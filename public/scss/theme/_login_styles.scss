@@ -1,0 +1,49 @@
+.my-styles {
+  .social-signup-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .social-signup-button {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 20px;
+    background-color: #4267b2; /* Adjust the background color for Facebook */
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+
+    img {
+      width: 24px; /* Adjust the image icon size as needed */
+      margin-right: 10px;
+    }
+
+    &:hover {
+      background-color: #365899; /* Adjust the hover background color for Facebook */
+    }
+  }
+
+  .scrolling-text-container {
+    overflow: hidden;
+    width: 100%;
+
+    .scrolling-text {
+      white-space: nowrap;
+      animation: scrollText 10s linear infinite; /* Adjust the animation as needed */
+
+      @keyframes scrollText {
+        0% {
+          transform: translateX(100%);
+        }
+        100% {
+          transform: translateX(-100%);
+        }
+      }
+    }
+  }
+}

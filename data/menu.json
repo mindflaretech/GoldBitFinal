@@ -1,0 +1,183 @@
+[
+  {
+    "title": "Home",
+    "type": "sub",
+    "children": [
+      {
+        "title": "Account",
+        "type": "sub",
+        "children": [
+          {
+            "path": "/pages/account/wishlist",
+            "title": "wishlist",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/cart",
+            "title": "cart",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/dashboard",
+            "title": "dashboard",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/login",
+            "title": "login",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/register",
+            "title": "register",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/contact",
+            "title": "contact",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/forget-password",
+            "title": "forget password",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/profile",
+            "title": "profile",
+            "type": "link"
+          },
+          {
+            "path": "/pages/account/checkout",
+            "title": "checkout",
+            "type": "link"
+          }
+        ]
+      },
+      {
+        "path": "/pages/about-us",
+        "title": "contact us",
+        "type": "link"
+      },
+      {
+        "path": "/pages/search",
+        "title": "our promise to you",
+        "type": "link"
+      },
+      {
+        "path": "/pages/typography",
+        "title": "news ",
+        "type": "link"
+      },
+      {
+        "path": "/pages/review",
+        "title": "videos",
+        "type": "link"
+      },
+      {
+        "path": "/pages/order-success",
+        "title": "sell to us",
+        "type": "link"
+      },
+      {
+        "path": "/pages/faq",
+        "title": "FAQs",
+        "type": "link"
+      }
+    ]
+  },
+  {
+    "title": "Gold",
+    "type": "sub",
+    "children": [
+      {
+        "path": "/collections/leftsidebar",
+        "title": "Gold Bars",
+        "type": "link"
+      },
+      {
+        "path": "/collections/right-sidebar",
+        "title": "Gold Coins",
+        "type": "link"
+      },
+      {
+        "path": "/collections/no-sidebar",
+        "title": "Promotions",
+        "type": "link"
+      }
+    ]
+  },
+  {
+    "title": "Silver",
+    "type": "sub",
+    "children": [
+      {
+        "path": "/product-details/1",
+        "title": "Silver Bars",
+        "type": "link"
+      },
+      {
+        "path": "/product-details/right-sidebar",
+        "title": "Silver Coins",
+        "type": "link"
+      },
+      {
+        "path": "/product-details/no-sidebar",
+        "title": "Silver Round",
+        "type": "link"
+      },
+      {
+        "path": "/product-details/no-sidebar",
+        "title": "Collectibles",
+        "type": "link"
+      },
+      {
+        "path": "/product-details/no-sidebar",
+        "title": "Promotions",
+        "type": "link"
+      }
+    ]
+  },
+  {
+    "title": "Platinum",
+    "type": "sub",
+    "children": [
+      {
+        "path": "/features/portfolio/portfolio-grid-2",
+        "title": "Platinum Coins",
+        "type": "link"
+      }
+    ]
+  },
+  {
+    "title": "Sell to us",
+    "type": "sub",
+    "children": [{}]
+  },
+  {
+    "title": "news",
+    "type": "sub",
+    "children": [
+      {
+        "path": "/blog/left-sidebar",
+        "title": "Left Sidebar",
+        "type": "link"
+      },
+      {
+        "path": "/blog/right-sidebar",
+        "title": "right Sidebar",
+        "type": "link"
+      },
+      {
+        "path": "/blog/no-sidebar",
+        "title": "no Sidebar",
+        "type": "link"
+      },
+      {
+        "path": "/blog/blog-details",
+        "title": "blog-details",
+        "type": "link"
+      }
+    ]
+  }
+]

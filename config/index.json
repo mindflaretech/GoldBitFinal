@@ -1,0 +1,11 @@
+{
+  "firebase": {
+    "apiKey": "AIzaSyDxzfbYE88itz3s1kpA_xd2Mth68b3httE",
+    "authDomain": "goldbit-75611.firebaseapp.com",
+    "databaseURL": "https://goldbit-75611-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "projectId": "goldbit-75611",
+    "storageBucket": "goldbit-75611.appspot.com",
+    "messagingSenderId": "1093571197040",
+    "appId": "1:1093571197040:web:388f53f00248d9791e5cb5"
+  }
+}
